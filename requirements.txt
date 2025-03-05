@@ -1,0 +1,5 @@
+flask
+httpx
+beautifulsoup4
+gunicorn
+lxml
